@@ -1,1 +1,1 @@
-console.log('Running Script From Git')
+console.log('Running Script ')
