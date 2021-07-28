@@ -17,4 +17,4 @@ const checkSite = async () => {
 		console.log('Error');
 	}
 };
-checkSite();
+window.addEventListener('DOMContentLoaded', checkSite);
